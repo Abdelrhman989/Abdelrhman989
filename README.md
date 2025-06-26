@@ -1,55 +1,79 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mansour</h1>
-<h3 align="center">Backend Developer | Node.js, TypeScript, MongoDB</h3>
+<h3 align="center">🎓 Computer Science Graduate | 🔧 Backend Developer</h3>
 
 ---
 
-🎯 I’m passionate about building real-world backend systems with a focus on:
+🌟 I'm a passionate backend developer with a strong foundation in computer science and a love for building real-world, scalable systems.  
 
-- Scalable & secure API design  
-- Clean architecture  
-- Authentication systems (JWT, OTP, MFA)  
-- Notification systems (Web Push, CRON)  
+🔍 I'm always learning and experimenting with new technologies and ideas.
 
 ---
 
-🛠️ **Technologies I work with:**
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python  
-- **Backend:** Node.js, Express.js, RESTful APIs  
-- **Database:** MongoDB, Mongoose  
-- **Tools:** Git, GitHub, Postman, Vercel, Railway  
-- **Other:** PDF export, Push Notifications, Cron jobs
+### 💻 Languages
+- C++
+- Python
+- Java
+- JavaScript / TypeScript
+
+### 🧠 CS Concepts
+- OOP (Object-Oriented Programming)
+- MVC Architecture
+- Data Structures & Algorithms
+
+### 🔙 Backend Development
+- Node.js & Express
+- MongoDB & Mongoose
+- RESTful APIs
+- Authentication: JWT, OTP, MFA
+- CRON Jobs, Emailing, PDF Export
+
+### 🛠 Tools
+- Git & GitHub
+- Postman
+- Vercel / Railway / Render
+- Linux CLI (basic)
+- Docker (basics)
 
 ---
 
-📌 **Featured Project**
+## 📁 Featured Projects
 
-### Smart Habit Tracker 🔁  
-Backend system for habit tracking with secure login, notifications, PDF export, and more.  
-🔗 [View on GitHub](https://github.com/yourusername/smart-habit-tracker)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔗 Smart Habit Tracker](https://github.com/yourusername/smart-habit-tracker) | Habit tracking backend with reminders, auth, and push notifications | Node.js, TypeScript, MongoDB |
+| [🔗 Project 2](#) | *Add your second project here* | Express, MongoDB |
+| [🔗 Project 3](#) | *Add your third project here* | Java, Spring Boot |
 
----
-
-📫 **Let’s Connect!**  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+> 🧠 You can add more projects above by copying the same row.
 
 ---
 
-🧠 Currently improving my skills in testing, system design, and performance optimization.
+## 🧾 Certifications & Courses
 
+- Backend Development – Digital Egypt Pioneers  
+- Node.js & MongoDB Bootcamp – Udemy  
+- Algorithms & Problem Solving – YouTube
 
-<!--
-**Abdelrhman989/Abdelrhman989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐙 [GitHub](https://github.com/Abdelrhman989)
+- 📧 Email: abdelrahman.mansour059@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+> ✨ Always open to internships, collaborations, and new learning opportunities!
