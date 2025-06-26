@@ -51,7 +51,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 Smart Habit Tracker](https://github.com/yourusername/smart-habit-tracker) | Habit tracking backend with reminders, auth, and push notifications | Node.js, TypeScript, MongoDB |
-
+| [Langu Speak API](https://github.com/AhmedMahmoud929/langu-speak-api) | Contributor | Node.js, Azure Speech |
 
 ## 🤝 Open Source Contributions
 
