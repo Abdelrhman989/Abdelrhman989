@@ -51,7 +51,19 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 Smart Habit Tracker](https://github.com/yourusername/smart-habit-tracker) | Habit tracking backend with reminders, auth, and push notifications | Node.js, TypeScript, MongoDB |
-| [🔗 langu speak](#) | (https://github.com/AhmedMahmoud929/langu-speak-api.git) | Express, MongoDB |
+
+
+## 🤝 Open Source Contributions
+
+### 🔹 [Langu Speak API](https://github.com/AhmedMahmoud929/langu-speak-api)
+A speech evaluation backend API for English pronunciation training.
+
+**My role:**
+- Added features related to pronunciation accuracy and user scoring
+- Implemented parts of the authentication system (JWT + user management)
+- Helped with refactoring and organizing the codebase (Node.js + Express)
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Azure Speech API
 
 ---
 
