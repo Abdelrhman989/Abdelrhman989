@@ -57,7 +57,7 @@
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdelrhman-mansour-0ba40a23a/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abdelrhman-mansour-0ba40a23a/)
 - 🐙 [GitHub](https://github.com/Abdelrhman989)
 - 📧 Email: abdelrahman.mansour059@gmail.com
 
