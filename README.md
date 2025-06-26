@@ -43,10 +43,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 Smart Habit Tracker](https://github.com/yourusername/smart-habit-tracker) | Habit tracking backend with reminders, auth, and push notifications | Node.js, TypeScript, MongoDB |
-| [🔗 Project 2](#) | *Add your second project here* | Express, MongoDB |
-| [🔗 Project 3](#) | *Add your third project here* | Java, Spring Boot |
-
-> 🧠 You can add more projects above by copying the same row.
+| [🔗 langu speak](#) | (https://github.com/AhmedMahmoud929/langu-speak-api.git) | Express, MongoDB |
 
 ---
 
@@ -60,7 +57,7 @@
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdelrhman-mansour-0ba40a23a/))
 - 🐙 [GitHub](https://github.com/Abdelrhman989)
 - 📧 Email: abdelrahman.mansour059@gmail.com
 
