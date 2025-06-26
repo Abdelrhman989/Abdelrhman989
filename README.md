@@ -35,6 +35,14 @@
 - Vercel / Railway / Render
 - Linux CLI (basic)
 - Docker (basics)
+  
+### 🌐 Networking
+
+- Strong understanding of networking fundamentals (CCNA level)
+- Familiar with routing and switching concepts (CCNP basics)
+- TCP/IP, Subnetting, VLANs, NAT, ACLs
+- Basic knowledge of configuring routers & switches
+
 
 ---
 
