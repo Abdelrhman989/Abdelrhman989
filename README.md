@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Mansour</h1>
 <h1 align="center">
-  Hi there 👋 I'm <span style="color:#007acc">Mansour</span> 👨‍💻
+  Hi there 👋 I'm <span style="color:#007acc">Abdulrahman Mansou</span> 👨‍💻
 </h1>
 
 <p align="center">
