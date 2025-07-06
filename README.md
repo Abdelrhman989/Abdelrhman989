@@ -75,7 +75,12 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman989&theme=darkhub&no-frame=true&column=7" />
+</p>
 
+---
 ### 📫 Connect With Me
 
 <p align="center">
