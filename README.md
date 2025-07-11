@@ -46,8 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman989&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Abdelrhman989&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman989&show_icons=true&theme=tokyonight&hide_title=true" width="60%" />
 </p>
 
 ---
