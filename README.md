@@ -67,20 +67,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdelrhman989/Abdelrhman989/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- OR for snake -->
-<!--
-### 🐍 Snake animation
-<p align="center">
-  <img src="./dist/snake.svg" />
-</p>
--->
+
 
 ---
 
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/me/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-mansour-0ba40a23a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:abdelrhman989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
