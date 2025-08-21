@@ -35,11 +35,15 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [Smart Habit Tracker](https://github.com/Abdelrhman989/smart-habit-tracker)  
+- 🌸 [Smart Habit Tracker](https://github.com/Abdelrhman989/smart-habit-tracker)  
   A productivity app with OTP, habit analytics, MFA, and Web Push Notifications.
 
 - 🎤 [Langu Speak API](https://github.com/AhmedMahmoud929/langu-speak-api)  
   API helping students practice English with real-time pronunciation feedback.
+
+- 📚 [Bookstore API](https://github.com/Abdelrhman989/bookstore-api)  
+  A clean and scalable backend for managing books, built with Node.js, TypeScript, and MongoDB.  
+  Includes authentication (Admin & Public), error handling, validation, and modular architecture.
 
 ---
 
