@@ -73,14 +73,6 @@
 
 ---
 
-## 📈 Contribution Activity (October 2025)
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abdelrhman989&theme=github&from=2025-10-01&to=2025-10-31" alt="Contribution Graph" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
