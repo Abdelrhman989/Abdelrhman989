@@ -46,31 +46,7 @@
   Includes authentication, validation, error handling, and scalable architecture.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman989&show_icons=true&theme=tokyonight&hide_title=true" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman989&theme=darkhub&no-frame=true&column=7" />
-</p>
-
----
-
-## 🟡 Pac-Man on My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrhman989/Abdelrhman989/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrhman989/Abdelrhman989/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdelrhman989/Abdelrhman989/output/pacman-contribution-graph.svg">
-</picture>
-
+<h1 align="center">
 ---
 
 ## 🌐 Socials:
