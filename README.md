@@ -52,9 +52,6 @@ Clean & scalable backend for managing books — built with Node.js, TypeScript, 
 ## 📊 GitHub Stats
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman989&theme=dark&hide_border=true&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman989&layout=compact&theme=dark&hide_border=true" height="160" />
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrhman989&theme=dark&hide_border=true" height="160" />
 
 </div>
