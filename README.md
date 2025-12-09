@@ -49,13 +49,6 @@ Clean & scalable backend for managing books — built with Node.js, TypeScript, 
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman989&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   
