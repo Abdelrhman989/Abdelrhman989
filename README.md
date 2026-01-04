@@ -4,8 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Back-End+Developer;Node.js+%2B+TypeScript;Clean+Code+Enthusiast;Always+Learning..." />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdelrhman989&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+---
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science graduate – Menoufia University  
